@@ -53,7 +53,7 @@ if geteuid() != 0:
 def warning(): # Banner #
     print('''
 \033[94;1m
-                https://github.com/iinc0gnit0/BlackPhish\033[0m\033[91m
+                https://github.com/alvinbaby/BlackPhish\033[0m\033[91m
                 
 
         ▀█████████▄                      ▀████████▄
@@ -66,7 +66,7 @@ def warning(): # Banner #
         ▄█████████▀ \033[31m  ┴─┘┴ ┴└─┘┴ ┴ \033[91m        ███\033[31m  ┴ ┴┴└─┘┴ ┴\033[94;1m         v3.4
         
                 
-                    Banner made by: \033[91;1m[ tuf_unkn0wn ]\033[94;1m
+                    by: \033[91;1m[ MR JINN ]\033[94;1m
                     
                     Script created by: \033[91;1m[ inc0gnit0 ] [ retro0001 ]\033[94;1m
 
@@ -333,7 +333,7 @@ def redirect():
 def banner():
     print('''
 \033[94;1m
-                https://github.com/iinc0gnit0/BlackPhish\033[0m\033[91m
+                https://github.com/alvinbaby/BlackPhish\033[0m\033[91m
                 
 
         ▀█████████▄                      ▀████████▄
@@ -346,15 +346,9 @@ def banner():
         ▄█████████▀ \033[31m  ┴─┘┴ ┴└─┘┴ ┴ \033[91m        ███\033[31m  ┴ ┴┴└─┘┴ ┴\033[94;1m         v4.0
         
                 
-                    Banner made by: \033[91;1m[ tuf_unkn0wn ]\033[94;1m
+                    by: \033[91;1m[ MR JINN ]\033[94;1m
                     
-                    Script created by: \033[91;1m[ inc0gnit0 ] [ retro0001 ]\033[94;1m
-
-		    Revisions made by: \033[91;1m[ jackoftimeandreality ]\033[94;1m
                     
-                    Websites created by: \033[91;1m[ TableFlipGod ]\033[94;1m 
-                    
-                    Big Thanks to: \033[91;1m [ DarkSecDevelopers ]\033[91;1m
                     
                     
                     
